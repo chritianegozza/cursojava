@@ -14,3 +14,13 @@
 
 
 ![image](https://user-images.githubusercontent.com/72118415/166563578-a66cbc11-9129-4928-b27a-91dddd9d7eb1.png)
+
+*******************************************************************************************************************
+Projeto 
+
+Projeto são os exercícios feito durantes as aulas desse curso, de java, treinando alguns conceitos aprendindo e
+práticando a linguagem. 
+*******************************************************************************************************************
+Linguagem 
+
+JAVa
