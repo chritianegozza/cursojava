@@ -1,4 +1,4 @@
-# Curso Java
+# 🚀Curso Java
 *******************************************************************************************************************
 
 ![image](https://user-images.githubusercontent.com/72118415/166561877-86be05d7-e11c-4b28-8217-f5bcc1d43b8f.png)
@@ -16,13 +16,13 @@
 ![image](https://user-images.githubusercontent.com/72118415/166563578-a66cbc11-9129-4928-b27a-91dddd9d7eb1.png)
 
 *******************************************************************************************************************
-Projeto 
+🌱 Projeto 
 
 Projeto são os exercícios feito durantes as aulas desse curso, de java, treinando alguns conceitos aprendindo e
 práticando a linguagem. 
 *******************************************************************************************************************
-Linguagem 
+👩🏻‍💻 Linguagem 
 
-JAVA
+📌 JAVA
 ******************************************************************************************************************
-
+💌 Caso queria falar comigo, basta mandar mensagem. 
